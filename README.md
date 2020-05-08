@@ -4,11 +4,11 @@ Use this checklist to avoid forgetting any required elements from your Capstone 
 
 ## How to Use This Checklist
 
-Fork this checklist, and complete it prior to submitting your Capstone for review. You can mark items as complete by adding an 'x' between the brackets in your Markdown file (i.e. change [ ] to [x]). 
+Fork this checklist, and complete it prior to submitting your Capstone for review. You can mark items as complete by adding an 'x' between the brackets in your Markdown file (i.e. change `[ ]` to `[x]`). 
 
 ## Business Understanding
 
-- [ ] Clearly explain the real-world problem your project attempts to solve in...
+- [ ] Clearly explains the real-world problem your project attempts to solve in...
   - [ ] Readme
   - [ ] Notebook
   - [ ] Slides
@@ -23,25 +23,60 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Data Preparation
 
-- [ ] D
+- [ ] Notebook or `.py` file(s) include code to prepare your raw data for analysis
 
 ## Modeling
-- [ ] Text
+
+- [ ] Notebook includes a baseline model
+- [ ] Notebook includes additional models built iteratively from the baseline model
+- [ ] Preferred model is described in...
+  - [ ] Readme
+  - [ ] Notebook
+  - [ ] Slides
 
 ## Evaluation
-- [ ] Text
+
+- [ ] Model validation is included in...
+  - [ ] Readme
+  - [ ] Notebook
+  - [ ] Slides
 
 ## Readme Content
-- [ ] Text
+
+- [ ] Readme includes...
+  - [ ] Data science process steps
+  - [ ] Future improvement ideas
+  - [ ] Repository navigation
+  - [ ] Reproduction instructions
+  - [ ] Links to presentation and sources
 
 ## Notebook Content
-- [ ] Text
+
+- [ ] Notebook includes...
+  - [ ] Data understanding
+  - [ ] Data preparation
+  - [ ] Modeling
+  - [ ] Evaluation
 
 ## Presentation Content
-- [ ] Text
+
+- [ ] Presentation includes...
+  - [ ] Introduction
+  - [ ] Data science process steps
+  - [ ] Future improvement ideas
+  - [ ] Contact info
 
 ## Presentation Style
-- [ ] Text
+
+- [ ] Presentation...
+  - [ ] Is uncluttered
+  - [ ] Is light on text
+  - [ ] Has no unnecessary jargon
+  - [ ] Has visuals that clearly demonstrate key points
 
 ## Sourcing
-- [ ] Text
+
+- [ ] Properly cites...
+  - [ ] Data
+  - [ ] Images
+  - [ ] Any other content created by others (e.g. text, code)
