@@ -4,7 +4,7 @@ Use this checklist to avoid forgetting any required elements from your Capstone 
 
 ## How to Use This Checklist
 
-Fork this checklist, and complete it prior to submitting your Capstone for review. You can mark items as complete by adding an 'x' between the brackets in your Markdown file (i.e. change `[ ]` to `[x]`). 
+Fork this checklist, and complete it prior to submitting your Capstone for review. You can mark items as complete by adding an 'x' between the brackets in your Markdown file (i.e. change `[ ]` to `[x]`). You do not need to share this with your instructor.
 
 ## Business Understanding
 
