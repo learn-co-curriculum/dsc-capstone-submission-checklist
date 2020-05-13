@@ -1,6 +1,6 @@
 # DS Capstone MVP Submission Checklist
 
-Use this checklist to avoid forgetting any required elements from your Capstone MVP. This is based on the [Capstone Rubric]().
+Use this checklist to avoid forgetting any required elements from your Capstone MVP. This is based on the [Campus Capstone Rubric](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing).
 
 ## How to Use This Checklist
 
