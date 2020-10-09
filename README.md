@@ -1,10 +1,10 @@
-# DS Capstone MVP Submission Checklist
+# Capstone MVP Submission Checklist
 
-Use this checklist to avoid forgetting any required elements from your Capstone MVP. This is based on the [Campus Capstone Rubric](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing).
+Use this checklist to avoid forgetting any required elements from your Capstone MVP. This is based on the rubric for the Capstone Project assignment.
 
 ## How to Use This Checklist
 
-Fork this checklist, and complete it prior to submitting your Capstone for review. You can mark items as complete by adding an 'x' between the brackets in your Markdown file (i.e. change `[ ]` to `[x]`). You do not need to share this with your instructor.
+Fork [the repo for this checklist](https://github.com/learn-co-curriculum/dsc-capstone-submission-checklist), and complete it prior to submitting your Capstone for review. You can mark items as complete by adding an 'x' between the brackets in your Markdown file (i.e. change `[ ]` to `[x]`). You do not need to share this with your instructor.
 
 ## Business Understanding
 
